@@ -1,7 +1,7 @@
 # Customize GitHub Design
 Customize your GitHub profile with a charming design. Add GIF along with other visuals to your profile section which will give a nice look, presenting all your information in an elegant way.
 
-
+ 
 This repository contains a simple, customizable HTML and CSS template designed to help you create a stunning GitHub profile. By following the steps below, you can copy, edit, and upload this code to showcase your customized profile. 
 ________________________________________
 🎯 Purpose
